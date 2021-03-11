@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-
+//ejemplo de pros
 const CounterApp = ({numero}) => {
     return (
         <>
