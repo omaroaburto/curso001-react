@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Son las pruebas del archivo CounterApp.test.js Prueba de <CountApp/> con props 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <span>
+    100
+  </span>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    -1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+</Fragment>
+`;
+
+exports[`Son las pruebas del archivo CounterApp.test.js Prueba de componente <CountApp /> 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <span>
+    10
+  </span>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    -1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+</Fragment>
+`;
