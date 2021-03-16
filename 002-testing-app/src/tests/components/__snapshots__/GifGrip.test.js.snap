@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del archivo GifGrip.test.js Debe mostrar imágenes cuando se carga el UseFetchGif 1`] = `
+<Fragment>
+  <h3>
+    DOTA2
+  </h3>
+  <div
+    className="caja"
+  >
+    <GifGripItem
+      id="S3iIdbIuYNK588i8AT"
+      key="0.46515728762233777"
+      title="Gatos GIF by memecandy"
+      url="https://media2.giphy.com/media/S3iIdbIuYNK588i8AT/giphy.gif?cid=0f518613gtsd2f5q7omh1z014q2wzfl6cj61u2nytsv7bncq&rid=giphy.gif"
+    />
+  </div>
+</Fragment>
+`;
+
+exports[`Pruebas del archivo GifGrip.test.js Estás son las pruebas del componente <GifGrip/> 1`] = `
+<Fragment>
+  <h3>
+    DOTA2
+  </h3>
+  <span>
+    Loading...
+  </span>
+  <div
+    className="caja"
+  />
+</Fragment>
+`;

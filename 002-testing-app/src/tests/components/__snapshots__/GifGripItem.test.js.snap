@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del archivo GofGripItem.test.js Prueba del componente <GifGripItem/> 1`] = `
+<div
+  className="item-caja"
+  key="S3iIdbIuYNK588i8AT"
+>
+  <img
+    alt="Gatos GIF by memecandy"
+    key="S3iIdbIuYNK588i8AT"
+    src="https://media2.giphy.com/media/S3iIdbIuYNK588i8AT/giphy.gif?cid=0f518613gtsd2f5q7omh1z014q2wzfl6cj61u2nytsv7bncq&rid=giphy.gif"
+  />
+</div>
+`;

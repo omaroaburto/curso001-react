@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del archivo AddCategory.test.js Son las pruebas del componente <AddCategoryTest/> 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <p />
+  <input
+    onChange={[Function]}
+    placeholder="Búsqueda"
+    type="text"
+    value=""
+  />
+</form>
+`;
