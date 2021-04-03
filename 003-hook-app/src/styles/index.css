@@ -6,7 +6,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.container-fluid{
+  margin:0px;
+}
 
+.navbar{
+  margin:0px;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -16,5 +22,35 @@ code {
   display: flex;
 }
 button{
-  margin-right: 10px;
+  margin:0px;
+}
+.nbtn{
+  width:100%;
+}
+.list-group-item{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.parrafo1{
+  cursor: pointer;
+  margin: 0px;
+  text-decoration: none;
+  color: rgb(18, 117, 156);
+}
+.parrafo2{
+  cursor: pointer;
+  margin: 0px;
+  text-decoration: line-through;
+  color: rgb(187, 48, 48);
+}
+.parrafo1:hover{
+  color: rgb(4, 4, 34);
+}
+.parrafo2:hover{
+  color: rgb(13, 163, 163);
+}
+.complete{
+  text-decoration: line-through;
 }
